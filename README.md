@@ -3,5 +3,5 @@ Let's you read a script file stored on a directory. It executes it contents and 
 
 Create a directory. 
 Provide the necessary grants.
-Create the Package provided.
+Create the Procedure provided. (Update the sql script name in the exec statement)
 Execute it to read and run scripts.
