@@ -1,5 +1,5 @@
 # Oracle-SQL-Script-Executer---Ongoing
-Let's you read a script file stored on a directory. It executes it contents and stores the script onto a Table on DB.
+Let's you read a script file stored on a directory. It executes the script called and stores the file onto a Table on DB.
 
 Create a directory. Update Path, Schema User Name, Schema Password Details.
 Provide the necessary grants.
