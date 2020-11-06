@@ -1,4 +1,5 @@
--- Compile First. Execute the following procedure, by giving the sql file name from repository as the Input parameter. Example: EXEC execute_test_script('test.sql'); (Where 'test.sql' is the sql file uploaded onto SCRIPT_REPOSITORY Table)
+-- Compile First. Execute the following procedure, by giving the sql file name from repository as the Input parameter. 
+-- Example: EXEC execute_test_script('test.sql'); (Where 'test.sql' is the sql file uploaded onto SCRIPT_REPOSITORY Table)
 
 create or replace PROCEDURE execute_test_script(t_filename IN VARCHAR2)
 AS
